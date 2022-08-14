@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dawid Bernaciak</title>
+    <link>https://dbernaciak.github.io/</link>
+      <atom:link href="https://dbernaciak.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dawid Bernaciak</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://dbernaciak.github.io/images/icon_hud7b99614a75e94790a41298973331705_3296_512x512_fill_lanczos_center_3.png</url>
+      <title>Dawid Bernaciak</title>
+      <link>https://dbernaciak.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Software</title>
+      <link>https://dbernaciak.github.io/software/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://dbernaciak.github.io/software/</guid>
+      <description>&lt;p&gt;[[main]]
+name = &amp;ldquo;Software&amp;rdquo;
+url = &amp;ldquo;#software&amp;rdquo;
+weight = 20&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A loss discounting framework for model averaging and selection in time series models</title>
+      <link>https://dbernaciak.github.io/publication/ldf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dbernaciak.github.io/publication/ldf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
