@@ -3,21 +3,21 @@
 
 title: "A loss discounting framework for model averaging and selection in time series models"
 authors: ["Dawid Bernaciak", "Jim E. Griffin"]
-date: 2022-28-01T11:17:12+01:00
-doi: ""
+date: 2024-01-01T00:00:00Z
+doi: "10.1016/j.ijforecast.2023.10.003"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-28-01T11:17:12+01:00
+publishDate: 2024-01-01T00:00:00Z
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "International Journal of Forecasting"
+publication_short: "Int. J. Forecast."
 
 abstract: "We introduce a Loss Discounting Framework for forecast combination which generalises and combines Bayesian model synthesis and generalized Bayes methodologies. The framework allows large scale model averaging/selection and is also suitable for handling sudden regime changes. This novel and simple model synthesis framework is compared to both established methodologies and state of the art methods for a number of macroeconomic forecasting examples. We find that the proposed method offers an attractive, computationally efficient alternative to the benchmark methodologies and often outperforms more complex techniques."
 
